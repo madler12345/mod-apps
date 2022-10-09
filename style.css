@@ -1,0 +1,17 @@
+body{
+    margin:50px;
+    border-style: inset;
+    width: 500px;
+}
+
+.body{
+    margin: 20px;
+}
+
+h1{
+    font: Kurale;
+}
+
+.required{
+    input:after { content:"*"; }
+}
